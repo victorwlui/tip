@@ -1,10 +1,10 @@
-# Pre-work - *Name of App Here*
+# Pre-work - Tip Calculator
 
-**Name of your app** is a tip calculator application for iOS.
+Tip is a tip calculator application for iOS.
 
-Submitted by: **Your Name Here**
+Submitted by: Victor Lui
 
-Time spent: **X** hours spent in total
+Time spent: 1 hour spent in total
 
 ## User Stories
 
@@ -33,7 +33,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+There were no challanges encountered during this assignment.
 
 ## License
 
